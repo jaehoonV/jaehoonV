@@ -66,8 +66,8 @@
 
 <hr>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaehoonV&theme=vue&icons=true"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaehoonv&show_icons=true&locale=en&layout=compact" alt="jaehoonv" />
+<img src="https://github-readme-stats.vercel.app/api?username=jaehoonV&theme=vue&icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaehoonv&show_icons=true&locale=en&layout=compact" alt="jaehoonv" />
 </p>
 
 <hr>
