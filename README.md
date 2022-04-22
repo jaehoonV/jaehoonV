@@ -63,12 +63,8 @@
 <img src="https://img.shields.io/badge/Zoom-2D8CFF.svg?style=for-the-badge&logo=Zoom&logoColor=white"/>
 </p>
 
-
-<hr>
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=jaehoonV&theme=vue&icons=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaehoonv&show_icons=true&locale=en&layout=compact" alt="jaehoonv" />
-</p>
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaehoonv&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="jaehoonv's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaehoonv&layout=compact&theme=vue&hide_border=true" /> |
+| ------------- | ------------- |
 
 <hr>
 
