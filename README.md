@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=250&section=header&text=Welcome%20jaehoon's%20Github&fontSize=60&animation=fadeIn&fontAlignY=35)
 
 <p align="center" display="inline-block">
-    👋안녕하세요!
+    👋 안녕하세요!
    </br>
-   😄끊임없이 배우는 자세를 갖춘 개발자 <Strong>이재훈</Strong> 입니다.😄
+   😄 끊임없이 배우는 자세를 갖춘 개발자 <Strong>이재훈</Strong> 입니다. 😄
    </br>
    </br>
    <img src="https://img.shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white"/>
@@ -12,10 +12,10 @@
 </p>
 
 <p align="center">
-    <Strong>⚒️Tech Stack⚒️</Strong><br>
+    <Strong>⚒️ Tech Stack ⚒️</Strong><br>
 </p>
 <p align="center">
-    <Strong>📚Frameworks, Platforms and Libraries</Strong>
+    <Strong>📚 Frameworks, Platforms and Libraries 📚</Strong>
 </p>
 <p align="center" display="inline-block">
 <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
@@ -30,7 +30,7 @@
 </p>
 
 <p align="center">
-    <Strong>📋 Languages</Strong>
+    <Strong>📋 Languages 📋</Strong>
 </p>
 
 <p align="center">
@@ -41,7 +41,7 @@
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
 </p>
 <p align="center">
-    <Strong>💾 Databases</Strong>
+    <Strong>💾 Databases 💾</Strong>
 </p>
 
 <p align="center">
@@ -49,23 +49,5 @@
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
-<p align="center">
-    <Strong>💻 IDEs/Editors/etc.</Strong>
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white"/>
-</br>
-<img src="https://img.shields.io/badge/Google Sheets-34A853.svg?style=for-the-badge&logo=Google Sheets&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Zoom-2D8CFF.svg?style=for-the-badge&logo=Zoom&logoColor=white"/>
-</p>
-
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaehoonv&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="jaehoonv's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaehoonv&layout=compact&theme=vue&hide_border=true" /> |
 | ------------- | ------------- |
-
-<hr>
-
-
