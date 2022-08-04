@@ -1,5 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=250&section=header&text=Welcome%20jaehoon's%20Github&fontSize=60&animation=fadeIn&fontAlignY=35)
 
+<p align="center">
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FjaehoonV&count_bg=%23A2CCED&title_bg=%2361A2E3&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</p>
+
 <p align="center" display="inline-block">
     👋 안녕하세요!
    </br>
