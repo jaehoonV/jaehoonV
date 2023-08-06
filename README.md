@@ -7,8 +7,6 @@
 <p align="center" display="inline-block">
     👋 안녕하세요!
    </br>
-   😄 끊임없이 배우는 자세를 갖춘 개발자 <Strong>이재훈</Strong> 입니다. 😄
-   </br>
    </br>
    <img src="https://img.shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white"/>
    </br>
