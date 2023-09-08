@@ -37,9 +37,6 @@
 <p align="center">
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=round-square&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=round-square&logo=javascript&logoColor=%23F7DF1E"/>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=round-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=round-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/c-%2300599C.svg?style=round-square&logo=c&logoColor=white"/>
 </p>
 <p align="center">
     <Strong>💾 Databases 💾</Strong>
