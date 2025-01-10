@@ -10,7 +10,7 @@
    </br>
    <img src="https://img.shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white"/>
    </br>
-   <Strong>ljh1032112@gmail.com</Strong>
+   <Strong>hoon.dev96@gmail.com</Strong>
 </p>
 
 <p align="center">
